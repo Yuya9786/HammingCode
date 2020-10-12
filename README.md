@@ -1,7 +1,7 @@
 # HammingCode for 4bits message
 
 ### 使い方
-`$ python3 hamming_code.py [msg(0 <= msg < 16)]
+`$ python3 hamming_code.py [msg(0 <= msg < 16)]`
 
 ### 例（msg = 14）
 ```
